@@ -1,8 +1,12 @@
 
 # Posts App With Clean Architecture And Cubit
+- The Posts app is a simple app that implements the "Clean Architecture concepts" That has been introduced by [Uncle Bob (Robert C. Martin)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) ٫
+The application fetches data from the API in the case of the presence of the Internet and stores it in a database. In the case of offline mode, it fetches data from the previously stored database.
 
 ## Screenshots
 <img src="https://i.ibb.co/bNLR0Jh/Screenshot-1684007601.png" width="250">&nbsp;
+<img src="https://i.ibb.co/Zz6dxwf/Screenshot-2023-05-13-at-2-32-33-PM.png" width="350">&nbsp;
+<img src="https://i.ibb.co/mv4MSW4/1-0u-ek-VHFu7-Om7-Z-VTw-FHvg.webp" width="720">&nbsp;
 <img src="https://i.ibb.co/fMkTzjZ/Screenshot-2023-05-11-at-4-53-22-AM.png" width="1280">&nbsp;
 
 
