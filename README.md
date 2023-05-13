@@ -5,7 +5,7 @@ The application fetches data from the API in the case of the presence of the Int
 
 ## Screenshots
 <img src="https://i.ibb.co/bNLR0Jh/Screenshot-1684007601.png" width="250">&nbsp;
-<img src="https://i.ibb.co/Zz6dxwf/Screenshot-2023-05-13-at-2-32-33-PM.png" width="350">&nbsp;
+<img src="https://i.ibb.co/Zz6dxwf/Screenshot-2023-05-13-at-2-32-33-PM.png" width="720">&nbsp;
 <img src="https://i.ibb.co/mv4MSW4/1-0u-ek-VHFu7-Om7-Z-VTw-FHvg.webp" width="720">&nbsp;
 <img src="https://i.ibb.co/fMkTzjZ/Screenshot-2023-05-11-at-4-53-22-AM.png" width="1280">&nbsp;
 
